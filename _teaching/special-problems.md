@@ -1,5 +1,5 @@
 ---
-title: "Special Problems in Electricity Economics"
+title: "Special Problems in Electricity Economics - 2024 and 2025"
 collection: teaching
 type: "Masters course"
 permalink: /teaching/special-problems.md
@@ -8,13 +8,8 @@ date: 2024-03-01
 location: "Graz, Austria"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Master's level course where we introduce to the students the basic tools of financial mathematics and project finance.
+In this course, the students learn about how companies make real-world business decisions using technical and economic
+information.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Link to the course [here](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/527597?$scrollTo=toc_overview)
