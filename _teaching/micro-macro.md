@@ -2,7 +2,7 @@
 title: "Micro and Macroeconomics for Electrical Engineers - 2022 to 2024"
 collection: teaching
 type: "Masters course"
-permalink: /teaching/micro-macro.md
+# permalink: https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/529868?$scrollTo=toc_overview
 venue: "Graz University of Technology, Institute of Electricity Economics and Energy Innovation"
 date: 2022-10-01
 location: "Graz, Austria"

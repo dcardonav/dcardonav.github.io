@@ -2,7 +2,7 @@
 title: "Special Problems in Electricity Economics - 2024 and 2025"
 collection: teaching
 type: "Masters course"
-permalink: /teaching/special-problems.md
+# permalink: 
 venue: "Graz University of Technology, Institute of Electricity Economics and Energy Innovation"
 date: 2024-03-01
 location: "Graz, Austria"
