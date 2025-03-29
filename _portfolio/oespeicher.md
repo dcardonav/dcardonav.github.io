@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "ÖSpeicher"
+excerpt: "Consulting project developed for the Austrian Power Grid, the country's ISO, to determine medium term storage requirements for the Austrian power system"
 collection: portfolio
 ---
 
