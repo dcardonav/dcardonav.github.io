@@ -14,6 +14,6 @@ My work in this project consists on researching mathematical properties of energ
 for their temporal disaggregation; with the goal of achieving large computational gains in their
 solutions. Also, as part of my work, I am to develop a methodology to apply our findings to real world models.
 
-**Skills involved:**: Data analysis, machine learning, mathematical modeling, energy systems modeling, computer programming
+**Skills involved:**: Data analysis, machine learning, optimization, energy systems modeling, computer programming
 
 [^1]: [More information](https://www.tugraz.at/en/institutes/iee/research/current-projects/netzero-opt)
