@@ -1,0 +1,14 @@
+---
+title: "Disaggregation of energy system optimization models using machine learning for identification of active constraints"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-09-01-basis-tsa-ramping
+excerpt: 'Disaggregation of energy system optimization models using machine learning for identification of active constraints.'
+date: 2025-10-01
+venue: 'Sustainable Energy, Grids and Networks'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Cardona-Vasquez, D., Konrad, A., Werner, Y., Wogrin, S. (2025). &quot;Disaggregation of energy system optimization models using machine learning for identification of active constraints.&quot; <i>Sustainable Energy, Grids and Networks</i>. 43(101772).'
+---
+
+The increasing share of intermittent renewable energy sources and sector coupling technologies requires accurately capturing both short- and long-term temporal dynamics in optimization models. Existing methods based on decomposition or time series aggregation may impose a large computational burden or fail to capture the relationship between input data and model outcomes. This paper presents a novel approach that combines active constraint identification with temporal disaggregation of energy system optimization models. We deploy a machine-learning algorithm to predict active time-linking constraints based on historical data and a given model structure. The proposed method is demonstrated using a transport problem with time-linking ramping constraints applied to a realistic case study of the Austrian power system. While the classifier shows an out-of-sample prediction accuracy of 92%, the outcomes of the complete and the disaggregated optimization models are nearly identical, both in terms of total cost (< 1%) and decision variables. At the same time, the solution time of the full model could theoretically be reduced by a factor of 300 from 115s down to 0.4s, assuming perfect parallelization with a sufficient number of processors and zero overhead. We confirm this result by parallelizing the solution of the disaggregated model on a 16-core processor, obtaining a clock time of 4.3s, which represents a reduction of 96.5% with respect to the complete model. We conclude that the proposed method is capable of accurately capturing temporal dynamics induced by intermittent renewable energy sources while drastically reducing computational burden. Thereby, fostering the ability of energy system optimization models to efficiently support decision-making for the transformation towards fully renewable energy systems.
