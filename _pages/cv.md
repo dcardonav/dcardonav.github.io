@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 - English: [Click here](https://dcardonav.github.io/files/cv_davidcardonav.pdf) 
-- Spanish: *coming soon*
+- Spanish: [Click here](https://dcardonav.github.io/files/cv_davidcardona_es.pdf) 
